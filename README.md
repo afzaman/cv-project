@@ -23,14 +23,14 @@ You will also see any lint errors in the console.
 
 ## Live Demo
 
-[CV App](https://afzaman.github.io/cv-app)
+[CV App](https://afzaman.github.io/cv-project)
 
 ## Getting Started
 
 In order to setup and work on this project on your own, you will need to:
 
 1. Clone this project:
-`git clone https://github.com/afzaman/cv-app.git`
+`git clone https://github.com/afzaman/cv-project.git`
 
 ## Deployed on GitHub Pages
 
